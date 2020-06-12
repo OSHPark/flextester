@@ -1,6 +1,6 @@
-update=Thu 11 Jun 2020 03:57:50 PM CEST
+update=Fri 12 Jun 2020 04:25:18 PM CEST
 version=1
-last_client=pcbnew
+last_client=kicad
 [general]
 version=1
 RootSch=
@@ -12,14 +12,10 @@ NetIExt=net
 version=1
 LibDir=
 [eeschema/libraries]
-[PcbFrame]
-version=1
-[ModEditFrame]
-version=1
 [pcbnew]
 version=1
 PageLayoutDescrFile=
-LastNetListRead=flex-strip-tester.net
+LastNetListRead=
 LastSTEPExportPath=
 LastIDFExportPath=
 LastVRMLExportPath=

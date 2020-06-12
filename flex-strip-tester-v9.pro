@@ -1,4 +1,4 @@
-update=Thu 11 Jun 2020 03:57:50 PM CEST
+update=Sun 07 Jun 2020 11:39:45 PM CEST
 version=1
 last_client=pcbnew
 [general]
@@ -12,14 +12,10 @@ NetIExt=net
 version=1
 LibDir=
 [eeschema/libraries]
-[PcbFrame]
-version=1
-[ModEditFrame]
-version=1
 [pcbnew]
 version=1
 PageLayoutDescrFile=
-LastNetListRead=flex-strip-tester.net
+LastNetListRead=flex-strip-tester-v9.net
 LastSTEPExportPath=
 LastIDFExportPath=
 LastVRMLExportPath=

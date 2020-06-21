@@ -1,6 +1,6 @@
-update=Sat 20 Jun 2020 04:24:02 PM CEST
+update=Sun 21 Jun 2020 07:20:20 PM CEST
 version=1
-last_client=kicad
+last_client=pcbnew
 [general]
 version=1
 RootSch=
@@ -12,10 +12,6 @@ NetIExt=net
 version=1
 LibDir=
 [eeschema/libraries]
-[PcbFrame]
-version=1
-[ModEditFrame]
-version=1
 [pcbnew]
 version=1
 PageLayoutDescrFile=

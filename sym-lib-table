@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "flex-strip-tester-v9d-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/flex-strip-tester-v9d-eagle-import.kicad_sym")(options "")(descr ""))
+)

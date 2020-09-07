@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "flex-strip-tester-v9d")(type "KiCad")(uri "$(KIPRJMOD)/flex-strip-tester-v9d.pretty")(options "")(descr ""))
+)

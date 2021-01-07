@@ -6,7 +6,4 @@ Flexible PCB to test batteries (coincell, etc) with LED and resistor.
 - [Video](https://twitter.com/pdp7/status/1274350903223607299)
 - [Images](images)
 
-![PCB](images/tester-v13.png)
-![PCB](images/tester3.jpg)
-![PCB](images/tester-v13-closeup.png)
-
+![[Images](images)](images/collage.png)

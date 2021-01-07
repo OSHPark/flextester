@@ -1,7 +1,5 @@
 Flexible PCB to test batteries (coincell, etc) with LED and resistor.
 
-For the Open Hardware Summit 2020:
-http://2020.oshwa.org/
-
-OSH Park shared project:
-https://oshpark.com/shared_projects/MsXyOJiW
+- The LED and resistor footprints are 0603 surface mount
+- [Github repo](https://github.com/OSHPark/flextester/): [flex-strip-tester-v13.kicad_pcb](https://github.com/OSHPark/flextester/blob/master/flex-strip-tester-v13.kicad_pcb)
+- [OSH Park shared project](https://oshpark.com/shared_projects/9d3G335O)

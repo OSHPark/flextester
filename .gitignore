@@ -29,3 +29,5 @@ fp-info-cache
 *.gbr
 *.zip
 *.drl
+
+.svg2shenzhen-cache
